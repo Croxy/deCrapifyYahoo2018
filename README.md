@@ -17,5 +17,3 @@ If you don't have TamperMonkey and need to learn how to install it: https://open
 Please let me know if you have any issues or suggestions!
 
 Good luck this season!
-
-Also, for those interested here are some screen shots of the difference (these were taken on the 2017 version): https://imgur.com/a/RIYqq
