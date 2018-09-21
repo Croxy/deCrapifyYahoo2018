@@ -1,6 +1,6 @@
 # About
 
-Every year I play on Yahoo Sports and every year I want to gouge my eyes out looking at all their daily fantasy, and fantasy shop, and "CARCOMPANY BEST TEAM OF THE WEEK!" content.
+Every year I play Fantasy Football on Yahoo Sports and every year I want to gouge my eyes out looking at all their daily fantasy, and fantasy shop, and "CARCOMPANY BEST TEAM OF THE WEEK!" content.
 
 Many users use uBlock Orgin or another element/ad blocker but often times they fail due to one reason or another. To solve the issue I took to using TamperMonkey to modify the UI via JavaScript to get it a little more tolerable for my eyes.
 
