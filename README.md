@@ -1,4 +1,4 @@
-#About
+# About
 
 Every year I play on Yahoo Sports and every year I want to gouge my eyes out looking at all their daily fantasy, and fantasy shop, and "CARCOMPANY BEST TEAM OF THE WEEK!" content.
 
